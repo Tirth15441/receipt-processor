@@ -35,8 +35,7 @@ Use Postman or curl to test the endpoints.
 
 4. Example JSON Inputs
 POST /receipts/process:
-json
-Copy code
+
 {
   "retailer": "Target",
   "purchaseDate": "2022-01-01",
