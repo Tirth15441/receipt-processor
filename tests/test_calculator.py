@@ -11,4 +11,4 @@ def test_calculate_points():
         "total": "6.49"
     }
     points = calculate_points(receipt)
-    assert points > 0  # Replace with the correct expected points
+    assert points > 0  
